@@ -10,7 +10,7 @@
   <tr><td> :lemon:   Agile(Scrum) - Jira, Confluence, SVN/Github, Office 365, SharePoint, CRM(MS Dynamics365)</td></tr>
 </table>
 
-### 🙋‍♂️ Connect with me
+### 🤝♂ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
