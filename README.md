@@ -20,5 +20,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href=""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="Github"><img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href=""><img alt="Youtube" title="Youtube" src="https://youtu.be/7kqusk-DLko"/></a>
+  <a href="https://youtu.be/7kqusk-DLko"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
