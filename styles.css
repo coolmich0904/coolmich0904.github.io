@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  background-color: #333;
+  color: #fff;
+}
+
+.profile-pic {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  margin-left: 1rem;
+}
+
+.header-text {
+  flex-grow: 1;
+  text-align:center;
+}
+
+.header-text h1 {
+  margin: 0;
+}
+
+.header-text p {
+  margin: 0;
+}
+
+section {
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 800px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #fff;
+}
+
+h2 {
+  color:#333;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+table {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+p {
+  line-height: 1.6;
+}
+
+li {
+  line-height: 2.0;
+}
