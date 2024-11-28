@@ -5,14 +5,6 @@ body {
   background-color: #f4f4f4;
 }
 
-header {
-  background-image: url('images/header-bg.jpg');
-  background-size: cover;
-  color: white;
-  text-align: center;
-  padding: 20px;
-}
-
 .header-container {
   display: flex;
   align-items: center;
@@ -82,16 +74,6 @@ p {
 
 li {
   line-height: 2.0;
-}
-
-.demo-link {
-  color: #0077B5; /* LinkedIn 스타일과 일치 */
-  text-decoration: none;
-  font-weight: bold;
-}
-.demo-link:hover {
-  text-decoration: underline;
-  color: #0056a3;
 }
 
 footer {
